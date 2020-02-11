@@ -1,0 +1,16 @@
+{
+	"name": "Blogger",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "git-pages -d dist"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"homepage": " https://assisthare.github.io/blogger",
+	"dependencies": {
+		"git-pages": "^0.8.1"
+	}
+}

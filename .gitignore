@@ -1,0 +1,15 @@
+# style/owl.carousel.min.css
+# style/owl.theme.default.min.css
+# webfonts
+
+# after Html, body
+# /* :root {
+#   /* theme font-family */
+#   /* --Abel:'Abel',cursive; */
+#   /* --Anton:'Anton',cursive; */
+#   /* --Josefin:'Josefin',cursive; */
+#   /* --Lexend:'Lexend',cursive; */
+#   /* --Livvic:'Livvic',cursive; }  */
+# */
+node_modules
+
