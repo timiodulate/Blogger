@@ -66,7 +66,7 @@ p {
   background: white;
   padding: 0 2rem;
   height: 0rem;
-  min-height: 9vh;
+  min-height: 9.3vh;
   overflow: hidden;
   transition: height 1s ease-in-out;
 }
